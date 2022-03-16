@@ -1,6 +1,6 @@
 # Shortcuts
 
-Hi!
+Hello!
 
 This repo is a place where I add all the ios shortcuts I make for fun. Check them out! 
 
